@@ -1,0 +1,5 @@
+[{
+  "file": "/home/detwieller/Documents/Masters/Fall19/ENPM809Y/GithubRepositories/RWA-I/RWA-I/main.cpp",
+  "directory": "/home/detwieller/Documents/Masters/Fall19/ENPM809Y/GithubRepositories/RWA-I/RWA-I",
+  "command": "clang  -c /home/detwieller/Documents/Masters/Fall19/ENPM809Y/GithubRepositories/RWA-I/RWA-I/main.cpp -o /home/detwieller/Documents/Masters/Fall19/ENPM809Y/GithubRepositories/RWA-I/RWA-I/main.cpp.o  -I/usr/include/c++/4.9 -I/usr/include/x86_64-linux-gnu/c++/4.9 -I/usr/include/c++/4.9/backward -I/usr/lib/gcc/x86_64-linux-gnu/4.9/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]
