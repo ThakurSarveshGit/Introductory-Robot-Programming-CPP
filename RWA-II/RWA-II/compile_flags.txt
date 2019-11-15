@@ -1,0 +1,9 @@
+-I/usr/include/c++/4.9
+-I/usr/include/x86_64-linux-gnu/c++/4.9
+-I/usr/include/c++/4.9/backward
+-I/usr/lib/gcc/x86_64-linux-gnu/4.9/include
+-I/usr/local/include
+-I/usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed
+-I/usr/include/x86_64-linux-gnu
+-I/usr/include
+-I/home/detwieller/Documents/Masters/Fall19/ENPM809Y/GithubRepositories/RWA-II/RWA-II
